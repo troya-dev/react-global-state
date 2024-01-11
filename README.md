@@ -1,1 +1,1 @@
-# react-state-hack
+# react-global-state
